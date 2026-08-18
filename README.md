@@ -14,7 +14,7 @@
 </a>
 
 <br/><br/>
-  <img width="100" height=auto alt="Logo" src="https://github.com/user-attachments/assets/6b6ca764-dee9-40b9-a41b-ff883055422f" />
+ 
 
 <p>
   <img src="https://img.shields.io/github/followers/kasrakr?label=Followers&style=for-the-badge&color=A855F7&logo=github&logoColor=white&labelColor=1E1B4B" alt="Followers" />
@@ -41,7 +41,7 @@
       </ul>
     </td>
     <td width="35%" align="center">
-      <img src="https://github.com/kasrakr.png" width="220" height="220" style="border-radius:50%;" alt="Kasra Karimian"/>
+      <img width="500" height=auto alt="Logo" src="https://github.com/user-attachments/assets/6b6ca764-dee9-40b9-a41b-ff883055422f" />
     </td>
   </tr>
 </table>
