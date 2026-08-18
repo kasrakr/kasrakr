@@ -10,7 +10,7 @@
 <br/>
 
 <a href="https://github.com/kasrakr">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer+%F0%9F%92%BB;Open+Source+Enthusiast+%F0%9F%8C%90;Always+Learning+New+Things+%F0%9F%9A%80;Welcome+to+my+GitHub+%F0%9F%91%8B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&random=false&width=600&lines=Trying+to+be+Full-Stack+Developer+%F0%9F%92%BB;Open+Source+Enthusiast+%F0%9F%8C%90;Always+Learning+New+Things+%F0%9F%9A%80;Welcome+to+my+GitHub+%F0%9F%91%8B" alt="Typing SVG" />
 </a>
 
 <br/><br/>
