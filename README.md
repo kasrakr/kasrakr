@@ -4,6 +4,7 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Kasra%20Karimian&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn&color=0:0B1026,50:21134F,100:6C2BD9" />
   <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Kasra%20Karimian&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn&color=0:4C1D95,50:6D28D9,100:9333EA" />
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Kasra%20Karimian&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn&color=0:4C1D95,50:6D28D9,100:9333EA" width="100%" alt="Header Banner" />
+
 </picture>
 
 <br/>
@@ -13,6 +14,7 @@
 </a>
 
 <br/><br/>
+  <img width="100" height=auto alt="Logo" src="https://github.com/user-attachments/assets/6b6ca764-dee9-40b9-a41b-ff883055422f" />
 
 <p>
   <img src="https://img.shields.io/github/followers/kasrakr?label=Followers&style=for-the-badge&color=A855F7&logo=github&logoColor=white&labelColor=1E1B4B" alt="Followers" />
