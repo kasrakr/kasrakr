@@ -1,9 +1,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,50:6D28D9,100:A855F7&height=220&section=header&text=Hey%20there,%20I'm%20Kasra%20Karimian&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20profile&descAlignY=58&descSize=18&animation=fadeIn" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:C4B5FD,50:A855F7,100:6D28D9&height=220&section=header&text=Hey%20there,%20I'm%20Kasra%20Karimian&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20profile&descAlignY=58&descSize=18&animation=fadeIn" />
-  <img alt="Profile banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,50:6D28D9,100:A855F7&height=220&section=header&text=Hey%20there,%20I'm%20Kasra%20Karimian&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20profile&descAlignY=58&descSize=18&animation=fadeIn" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,50:6D28D9,100:A855F7&height=230&section=header&text=Hey%20there,%20I'm%20Kasra%20Karimian&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Welcome%20to%20my%20GitHub%20profile&descAlignY=55&descSize=18&animation=fadeIn" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:C4B5FD,50:A855F7,100:6D28D9&height=230&section=header&text=Hey%20there,%20I'm%20Kasra%20Karimian&fontSize=42&fontColor=1E1B4B&fontAlignY=35&desc=Welcome%20to%20my%20GitHub%20profile&descAlignY=55&descSize=18&animation=fadeIn" />
+  <img alt="Profile banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,50:6D28D9,100:A855F7&height=230&section=header&text=Hey%20there,%20I'm%20Kasra%20Karimian&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Welcome%20to%20my%20GitHub%20profile&descAlignY=55&descSize=18&animation=fadeIn" />
 </picture>
 
 <br/>
@@ -32,16 +32,14 @@
   <tr>
     <td width="65%" valign="middle">
       <ul>
-        <li>🎯 I'm <b>Kasra Karimian</b>, a <b>[Job Title / Role]</b> based in <b>[Your City, Country]</b>, passionate about <b>[Your Field / Passion]</b>.</li>
-        <li>🌱 Currently learning <b>[Technology / Skill you're exploring]</b>.</li>
-        <li>🤝 Open to collaborating on <b>[Type of Projects]</b>.</li>
-        <li>💬 Ask me about <b>[Topics you can help with]</b>.</li>
-        <li>📫 Reach me at <b>[kasra.karimian@example.com]</b>.</li>
-        <li>⚡ Fun fact: <b>[A fun fact about you]</b>.</li>
+        <li>🎯 I'm <b>Kasra Karimian</b>, a <b>Web Developer & Designer</b>, passionate about <b>Machine Learning and designing</b>.</li>
+        <li>🌱 Currently learning <b>Django and other Web develop stuff!</b></li>
+        <li>🤝 Open to collaborating.</li>
+        <li>📫 Reach me at <b>kasrakarimaian84@gmail.com</b>.</li>
       </ul>
     </td>
     <td width="35%" align="center">
-      <img src="https://placehold.co/320x320/1E1B4B/A855F7?text=Kasra+Karimian" width="100%" style="border-radius: 16px;" alt="Profile" />
+      <img src="https://github.com/kasrakr.png" width="220" height="220" style="border-radius:50%;" alt="Kasra Karimian"/>
     </td>
   </tr>
 </table>
@@ -56,8 +54,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,nodejs,python,java,cpp,html,css,tailwind&theme=dark" /><br/><br/>
-<img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,aws,linux,vscode,figma,postman,mongodb,mysql,redis&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,django,js,jquery,html,css,cpp,c,git,github,postgres,mysql,vscode,photoshop,illustrator,aftereffects,audition,premiere&perline=9&theme=dark" alt="Tech Stack"/>
 
 </div>
 
@@ -114,16 +111,16 @@
 
 <div align="center">
 
-<a href="https://linkedin.com/in/[your-linkedin-handle]" target="_blank">
+<a href="https://linkedin.com/in/kasrakarimian" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-A855F7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1E1B4B" alt="LinkedIn" />
 </a>
-<a href="https://t.me/[your-telegram-handle]" target="_blank">
+<a href="https://t.me/lowkasra" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-8B5CF6?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1E1B4B" alt="Telegram" />
 </a>
-<a href="https://instagram.com/[your-instagram-handle]" target="_blank">
+<a href="https://instagram.com/highkasra" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-A855F7?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1E1B4B" alt="Instagram" />
 </a>
-<a href="mailto:[kasra.karimian@example.com]" target="_blank">
+<a href="mailto:kasrakarimaian84@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1E1B4B" alt="Email" />
 </a>
 
