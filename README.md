@@ -119,9 +119,6 @@
 <a href="https://t.me/lowkasra" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-8B5CF6?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1E1B4B" alt="Telegram" />
 </a>
-<a href="https://instagram.com/highkasra" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-A855F7?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1E1B4B" alt="Instagram" />
-</a>
 <a href="mailto:kasrakarimaian84@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1E1B4B" alt="Email" />
 </a>
