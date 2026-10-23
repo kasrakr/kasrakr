@@ -10,7 +10,7 @@
 <br/>
 
 <a href="https://github.com/kasrakr">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&random=false&width=600&lines=Trying+to+be+Full-Stack+Developer+%F0%9F%92%BB;Open+Source+Enthusiast+%F0%9F%8C%90;Always+Learning+New+Things+%F0%9F%9A%80;Welcome+to+my+GitHub+%F0%9F%91%8B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&random=false&width=600&lines=Trying+to+be+AI+Engineer+%F0%9F%92%BB;Machine+Learning+Enthusiast+%F0%9F%8C%90;Always+Learning+New+Things+%F0%9F%9A%80;Welcome+to+my+GitHub+%F0%9F%91%8B" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -34,8 +34,8 @@
   <tr>
     <td width="65%" valign="middle">
       <ul>
-        <li>🎯 I'm <b>Kasra Karimian</b>, a <b>Web Developer & Designer</b>, passionate about <b>Machine Learning and designing</b>.</li>
-        <li>🌱 Currently learning <b>Django and other Web develop stuff!</b></li>
+        <li>🎯 I'm <b>Kasra Karimian</b>, a <b>Web Developer & Designer</b>, passionate about <b>Machine Learning, AI Engineering and Designing</b>.</li>
+        <li>🌱 Currently learning <b>Agentic AI and NLP!</b></li>
         <li>🤝 Open to collaborating.</li>
         <li>📫 Reach me at <b>kasrakarimaian84@gmail.com</b>.</li>
       </ul>
